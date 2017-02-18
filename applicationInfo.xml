@@ -6,7 +6,7 @@
 <MOML>
 	<APPLICATIONINFO>
 		<UPDATEINFO realTimeType="qMark" />
-		<START url="login.xml" />
+		<START url="login.xml" />11111
 		<ORIENTATION type="portrait" effect="none" />
 	</APPLICATIONINFO>
 </MOML>
