@@ -6,8 +6,8 @@
 <MOML>
 	<APPLICATIONINFO>
 		<UPDATEINFO realTimeType="qMark" />
-		<START url="login.xml" />
-		<ORIENTATION type="portrait" effect="none" />
+		<START url="login.xml" /><START url="login.xml" />		
+<ORIENTATION type="portrait" effect="none" />
 	</APPLICATIONINFO>
 </MOML>
  
